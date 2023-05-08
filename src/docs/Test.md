@@ -30,7 +30,7 @@ Second line
 - ***Bold and Italic Text***
 - `code`
 
-![Test](/assets/images/tux.png)  
+![Test](/src/docs/assets/images/tux.png)  
 <https://www.averna.com>  
 The company : [Averna Technologies Inc.](https://www.averna.com)  
 **[Averna Technologies Inc.](https://www.averna.com)**  
@@ -58,3 +58,6 @@ The company : [Averna Technologies Inc.](https://www.averna.com)
     "source":""
 }
 ```
+
+
+[def]: /assets/images/tux.png
