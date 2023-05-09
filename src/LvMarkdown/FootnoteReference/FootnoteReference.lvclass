@@ -26,29 +26,6 @@
 	<Item Name="FootnoteReference.ctl" Type="Class Private Data" URL="FootnoteReference.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Reference" Type="Property Definition">
-		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Reference</Property>
-		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Reference</Property>
-		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-		<Item Name="GetReference.vi" Type="VI" URL="../GetReference.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]*5G6G:8*F&lt;G.F!%2!=!!?!!!M%%RW47&amp;S;W2P&gt;WYO&lt;(:M;7):2G^P&gt;'ZP&gt;'63:7:F=G6O9W5O&lt;(:D&lt;'&amp;T=Q!!$%:P&lt;X2O&lt;X2F)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"#1(!!(A!!,""-&gt;EVB=GNE&lt;X&gt;O,GRW&lt;'FC'5:P&lt;X2O&lt;X2F5G6G:8*F&lt;G.F,GRW9WRB=X-!!!N'&lt;W^U&lt;G^U:3"J&lt;A"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1115684864</Property>
-		</Item>
-		<Item Name="SetReference.vi" Type="VI" URL="../SetReference.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;C!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!M%%RW47&amp;S;W2P&gt;WYO&lt;(:M;7):2G^P&gt;'ZP&gt;'63:7:F=G6O9W5O&lt;(:D&lt;'&amp;T=Q!!$%:P&lt;X2O&lt;X2F)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#6*F:G6S:7ZD:1"#1(!!(A!!,""-&gt;EVB=GNE&lt;X&gt;O,GRW&lt;'FC'5:P&lt;X2O&lt;X2F5G6G:8*F&lt;G.F,GRW9WRB=X-!!!N'&lt;W^U&lt;G^U:3"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!)1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1115684864</Property>
-		</Item>
-	</Item>
 	<Item Name="Render.vi" Type="VI" URL="../Render.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;J!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````]+5X2S;7ZH)'^V&gt;!!!2%"Q!"Y!!#Q14(:.98*L:'^X&lt;CZM&gt;GRJ9BF'&lt;W^U&lt;G^U:6*F:G6S:7ZD:3ZM&gt;G.M98.T!!!-2G^P&gt;'ZP&gt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````]*5X2S;7ZH)'FO!%*!=!!?!!!M%%RW47&amp;S;W2P&gt;WYO&lt;(:M;7):2G^P&gt;'ZP&gt;'63:7:F=G6O9W5O&lt;(:D&lt;'&amp;T=Q!!#U:P&lt;X2O&lt;X2F)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!.#A!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!1I!!!#1!!!!!!%!#A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
