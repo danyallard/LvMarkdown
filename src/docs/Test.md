@@ -17,7 +17,6 @@ Second line
 ***Bold and Italic Text***  
 > Blockquote 1  
 > > Nested Blockquote 2  
->   
 > ### Heading 3
 
 1. **Bold Text**
@@ -58,6 +57,3 @@ The company : [Averna Technologies Inc.](https://www.averna.com)
     "source":""
 }
 ```
-
-
-[def]: /assets/images/tux.png
