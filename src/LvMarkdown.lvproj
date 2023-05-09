@@ -19,7 +19,7 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="SetReference.vi" Type="VI" URL="../LvMarkdown/FootnoteReference/SetReference.vi"/>
+			<Item Name="GetReference.vi" Type="VI" URL="../LvMarkdown/FootnoteReference/GetReference.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

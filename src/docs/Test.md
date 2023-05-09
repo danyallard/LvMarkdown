@@ -17,6 +17,7 @@ Second line
 ***Bold and Italic Text***  
 > Blockquote 1  
 > > Nested Blockquote 2  
+>  
 > ### Heading 3
 
 1. **Bold Text**
@@ -57,15 +58,15 @@ The company : [Averna Technologies Inc.](https://www.averna.com)
     "source":""
 }
 ```
-Here's a simple footnote,[^1]and here's a longer one.[^bignote]
+  
+Here's a simple footnote,[^1]and here's a longer one.[^bignote]  
 
 [^1]: This is the first footnote.
 
-
 [^bignote]: Here's one with multiple paragraphs and code.
-    
-    Indent paragraphs to include them in the footnote.
-    
-    `{ my code }`
-    
-    Add as many paragraphs as you like.
+  
+  Indent paragraphs to include them in the footnote.
+  
+  `{ my code }`
+  
+  Add as many paragraphs as you like.
