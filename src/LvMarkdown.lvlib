@@ -24,6 +24,8 @@
 	<Item Name="Code.lvclass" Type="LVClass" URL="../LvMarkdown/Code/Code.lvclass"/>
 	<Item Name="Collection.lvclass" Type="LVClass" URL="../LvMarkdown/Collection/Collection.lvclass"/>
 	<Item Name="FencedCodeBlock.lvclass" Type="LVClass" URL="../LvMarkdown/FencedCodeBlock/FencedCodeBlock.lvclass"/>
+	<Item Name="Footnote.lvclass" Type="LVClass" URL="../LvMarkdown/Footnote/Footnote.lvclass"/>
+	<Item Name="FootnoteReference.lvclass" Type="LVClass" URL="../LvMarkdown/FootnoteReference/FootnoteReference.lvclass"/>
 	<Item Name="Heading.lvclass" Type="LVClass" URL="../LvMarkdown/Heading/Heading.lvclass"/>
 	<Item Name="HorizontalRule.lvclass" Type="LVClass" URL="../LvMarkdown/HorizontalRule/HorizontalRule.lvclass"/>
 	<Item Name="Image.lvclass" Type="LVClass" URL="../LvMarkdown/Image/Image.lvclass"/>
