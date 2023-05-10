@@ -2,7 +2,7 @@
 
 First paragraph
 
-## Heading 2
+## Heading 2 {#custom-id}
 
 Second paragraph
 with multi line
@@ -70,3 +70,5 @@ Here's a simple footnote,[^1]and here's a longer one.[^bignote]
     `{ my code }`
     
     Add as many paragraphs as you like.
+  
+[Link to Heading 2](#custom-id)  

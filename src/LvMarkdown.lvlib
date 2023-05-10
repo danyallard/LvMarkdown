@@ -32,6 +32,7 @@
 	<Item Name="Line.lvclass" Type="LVClass" URL="../LvMarkdown/Line/Line.lvclass"/>
 	<Item Name="LineBreak.lvclass" Type="LVClass" URL="../LvMarkdown/LineBreak/LineBreak.lvclass"/>
 	<Item Name="Link.lvclass" Type="LVClass" URL="../LvMarkdown/Link/Link.lvclass"/>
+	<Item Name="LinkingHeadingId.lvclass" Type="LVClass" URL="../LvMarkdown/LinkingHeadingId/LinkingHeadingId.lvclass"/>
 	<Item Name="Markdown.lvclass" Type="LVClass" URL="../LvMarkdown/Markdown.lvclass"/>
 	<Item Name="OrderedList.lvclass" Type="LVClass" URL="../LvMarkdown/OrderedList/OrderedList.lvclass"/>
 	<Item Name="Paragraph.lvclass" Type="LVClass" URL="../LvMarkdown/Paragraph/Paragraph.lvclass"/>
