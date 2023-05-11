@@ -1,8 +1,8 @@
-# Heading 1
+# Heading
 
 First paragraph
 
-## Heading 2 {#custom-id}
+## Heading 2 {#1}
 
 Second paragraph
 with multi line
@@ -64,11 +64,11 @@ Here's a simple footnote,[^1]and here's a longer one.[^bignote]
 [^1]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
-    
-    Indent paragraphs to include them in the footnote.
-    
-    `{ my code }`
-    
-    Add as many paragraphs as you like.
+
+  Indent paragraphs to include them in the footnote.
   
-[Link to Heading 2](#custom-id)  
+  `{ my code }`
+  
+  Add as many paragraphs as you like.
+  
+[Link to Heading2](#heading-2-1)  
