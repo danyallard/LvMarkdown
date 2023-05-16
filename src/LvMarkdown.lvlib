@@ -23,6 +23,7 @@
 	<Item Name="Blockquote.lvclass" Type="LVClass" URL="../LvMarkdown/Blockquote/Blockquote.lvclass"/>
 	<Item Name="Code.lvclass" Type="LVClass" URL="../LvMarkdown/Code/Code.lvclass"/>
 	<Item Name="Collection.lvclass" Type="LVClass" URL="../LvMarkdown/Collection/Collection.lvclass"/>
+	<Item Name="DefinitionList.lvclass" Type="LVClass" URL="../LvMarkdown/DefinitionList/DefinitionList.lvclass"/>
 	<Item Name="FencedCodeBlock.lvclass" Type="LVClass" URL="../LvMarkdown/FencedCodeBlock/FencedCodeBlock.lvclass"/>
 	<Item Name="Footnote.lvclass" Type="LVClass" URL="../LvMarkdown/Footnote/Footnote.lvclass"/>
 	<Item Name="FootnoteReference.lvclass" Type="LVClass" URL="../LvMarkdown/FootnoteReference/FootnoteReference.lvclass"/>

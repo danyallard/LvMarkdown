@@ -2,7 +2,7 @@
 
 First paragraph
 
-## Heading 2
+## Second Heading
 
 Second paragraph
 with multi line
@@ -30,8 +30,7 @@ Second line
 - ***Bold and Italic Text***
 - `code`
 
-![Test](/docs/assets/images/labview.jpg)  
-
+![Test](/src/docs/assets/images/tux.png)  
 <https://www.averna.com>  
 The company : [Averna Technologies Inc.](https://www.averna.com)  
 **[Averna Technologies Inc.](https://www.averna.com)**  
@@ -72,4 +71,11 @@ Here's a simple footnote,[^1]and here's a longer one.[^bignote]
     
     Add as many paragraphs as you like.
   
-[Link to Heading 2](#heading-2)  
+[Link to Heading 2](#second-heading)
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
