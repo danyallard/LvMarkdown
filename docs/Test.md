@@ -79,9 +79,9 @@ Here's a simple footnote,[^1]and here's a longer one.[^bignote]
   
 [Link to Heading 2](#second-heading)
 
-First Term
+First Term  
 : This is the definition of the first term.
 
-Second Term
+Second Term  
 : This is one definition of the second term.
 : This is another definition of the second term.
