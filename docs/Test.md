@@ -15,6 +15,7 @@ Second line
 *Italic Text*  
 `code`  
 ***Bold and Italic Text***  
+~~Strikethrough Text~~  
 > Blockquote 1  
 > > Nested Blockquote 2  
 >  
@@ -29,6 +30,11 @@ Second line
 - *Italic Text*
 - ***Bold and Italic Text***
 - `code`
+
+- [ ] **Bold Text**
+- [x] *Italic Text*
+- [ ] ***Bold and Italic Text***
+- [x] `code`
 
 ![Test](/src/docs/assets/images/tux.png)  
 <https://www.averna.com>  

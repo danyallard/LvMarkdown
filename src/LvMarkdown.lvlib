@@ -11,13 +11,10 @@
 	<Item Name="Emphasis" Type="Folder">
 		<Item Name="Bold.lvclass" Type="LVClass" URL="../LvMarkdown/Bold/Bold.lvclass"/>
 		<Item Name="Italic.lvclass" Type="LVClass" URL="../LvMarkdown/Italic/Italic.lvclass"/>
+		<Item Name="Strikethrough.lvclass" Type="LVClass" URL="../LvMarkdown/Strikethrough/Strikethrough.lvclass"/>
 	</Item>
 	<Item Name="Interface" Type="Folder">
 		<Item Name="IRenderable.lvclass" Type="LVClass" URL="../LvMarkdown/IRenderable/IRenderable.lvclass"/>
-	</Item>
-	<Item Name="Test" Type="Folder">
-		<Item Name="TEST_LvMarkdown.vi" Type="VI" URL="../TEST_LvMarkdown.vi"/>
-		<Item Name="TEST_LvMarkdownStep.ctl" Type="VI" URL="../TEST_LvMarkdownStep.ctl"/>
 	</Item>
 	<Item Name="Alignment.lvclass" Type="LVClass" URL="../LvMarkdown/Alignment/Alignment.lvclass"/>
 	<Item Name="Blockquote.lvclass" Type="LVClass" URL="../LvMarkdown/Blockquote/Blockquote.lvclass"/>
@@ -38,6 +35,7 @@
 	<Item Name="OrderedList.lvclass" Type="LVClass" URL="../LvMarkdown/OrderedList/OrderedList.lvclass"/>
 	<Item Name="Paragraph.lvclass" Type="LVClass" URL="../LvMarkdown/Paragraph/Paragraph.lvclass"/>
 	<Item Name="Table.lvclass" Type="LVClass" URL="../LvMarkdown/Table/Table.lvclass"/>
+	<Item Name="TaskList.lvclass" Type="LVClass" URL="../LvMarkdown/TaskList/TaskList.lvclass"/>
 	<Item Name="UnorderedList.lvclass" Type="LVClass" URL="../LvMarkdown/UnorderedList/UnorderedList.lvclass"/>
 	<Item Name="Url.lvclass" Type="LVClass" URL="../LvMarkdown/Url/Url.lvclass"/>
 </Library>

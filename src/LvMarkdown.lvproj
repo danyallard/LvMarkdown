@@ -11,6 +11,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Test" Type="Folder">
+			<Item Name="TEST_LvMarkdown.vi" Type="VI" URL="../TEST_LvMarkdown.vi"/>
+			<Item Name="TEST_LvMarkdownStep.ctl" Type="VI" URL="../TEST_LvMarkdownStep.ctl"/>
+		</Item>
 		<Item Name="LvMarkdown.lvlib" Type="Library" URL="../LvMarkdown.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -31,7 +35,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3DC7D64B-4291-4365-92EF-4B30B3E629BB}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LvMarkdown.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/LvMarkdown.lvlibp</Property>
