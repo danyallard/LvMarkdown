@@ -37,11 +37,11 @@ Second line
 - [x] `code`
 
 ![Test](/src/docs/assets/images/tux.png)  
-<https://www.averna.com>  
-The company : [Averna Technologies Inc.](https://www.averna.com)  
-**[Averna Technologies Inc.](https://www.averna.com)**  
-*[Averna Technologies Inc.](https://www.averna.com)*  
-[`Averna Technologies Inc.`](https://www.averna.com)  
+<https://www.github.com>  
+The company : [Dany Allard Inc.](https://www.danyallard.com)  
+**[Dany Allard Inc.](https://www.danyallard.com)**  
+*[Dany Allard Inc.](https://www.danyallard.com)*  
+[`Dany Allard Inc.`](https://www.danyallard.com)  
 
 | Table Header 1 | Table Header 2 Bold | Table Header 2 Italic | Table Header 2 Code |
 | -------------- | ------------------- | --------------------- | ------------------- |
@@ -79,9 +79,9 @@ Here's a simple footnote,[^1]and here's a longer one.[^bignote]
   
 [Link to Heading 2](#second-heading)
 
-First Term  
+First Term
 : This is the definition of the first term.
 
-Second Term  
-: This is one definition of the second term.  
+Second Term
+: This is one definition of the second term.
 : This is another definition of the second term.
